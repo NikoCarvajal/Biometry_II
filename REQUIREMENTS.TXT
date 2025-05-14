@@ -1,0 +1,8 @@
+This project requires the Students_Social_Media_Addiction.csv file and the following libraries used with R studio version 467 and R 4.4.2 
+library(skimr)
+library(tidyverse)
+library(car)
+library(leaps)
+library(glmnet)
+library(lmtest)
+library(lme4)
