@@ -13,6 +13,8 @@ The repo files are as follows:
 
 - The Final_Project.html file is the knitted version of the included .RMD file which is the annotated code used to generate the results.
 
+- The Final_Report_NCJ .PDF file is supplementary discussion of methods and the results of the project.
+
 TO RUN THE CODE, download the Final_Project.RMD file and open it in R, download the required libraries (listed in the REQUIREMENTS file as well as in the Rmd file), download the Students_Social_Media_Addiction.csv file, and run the .RMD file.
 
 - IMPORTANT: The .RMD file opens a window with file.choose() that promps the user to select the .csv file corresponding to the Students_Social_Media_Addiction.csv file. THE USER MUST SELECT THE CSV FILE FOR THE CODE TO CONTINUE. 
